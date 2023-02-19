@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @hishammfaume
-- 👀 I’m interested in front end dev
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning javascript,CC,python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
