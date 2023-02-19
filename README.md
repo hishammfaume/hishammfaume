@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hishammfaume
-- 🌱 I’m currently learning javascript,CC,python
+- 🌱 I’m currently learning javascript,C,python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
